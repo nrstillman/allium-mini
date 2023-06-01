@@ -2,3 +2,6 @@
 
 *.zip
 
+cell_sim/build
+
+simulator
